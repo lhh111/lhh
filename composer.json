@@ -1,0 +1,21 @@
+{
+    "name": "lhh/try-make-package",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "看客",
+            "email": "1300582537@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lhh\\": "lhh/"
+        }
+    }
+}
