@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "lhh/try-make-package": "dev-master"
     },
     "autoload": {
         "psr-4": {
